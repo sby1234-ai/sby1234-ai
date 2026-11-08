@@ -8,17 +8,17 @@
 - 포트폴리오: **https://sby1234-ai.github.io/myprofile/**
 - 연락처: akrrkt56@gmail.com
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![GNS3](https://img.shields.io/badge/GNS3-2B2B2B?style=flat-square)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-EF8B00?style=flat-square)
-![Wazuh](https://img.shields.io/badge/Wazuh-3595F6?style=flat-square&logo=wazuh&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=flat-square&logo=zabbix&logoColor=white)
-![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+<a><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&amp;logo=cisco&amp;logoColor=white" alt="Cisco"></a>
+<a><img src="https://img.shields.io/badge/GNS3-2B2B2B?style=flat-square" alt="GNS3"></a>
+<a><img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&amp;logo=pfsense&amp;logoColor=white" alt="pfSense"></a>
+<a><img src="https://img.shields.io/badge/Suricata-EF8B00?style=flat-square" alt="Suricata"></a>
+<a><img src="https://img.shields.io/badge/Wazuh-3595F6?style=flat-square&amp;logo=wazuh&amp;logoColor=white" alt="Wazuh"></a>
+<a><img src="https://img.shields.io/badge/Zabbix-CC2936?style=flat-square&amp;logo=zabbix&amp;logoColor=white" alt="Zabbix"></a>
+<a><img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=flat-square&amp;logo=rockylinux&amp;logoColor=white" alt="Rocky Linux"></a>
+<a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu"></a>
+<a><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&amp;logo=mariadb&amp;logoColor=white" alt="MariaDB"></a>
+<a><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker"></a>
+<a><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&amp;logo=gnubash&amp;logoColor=white" alt="Bash"></a>
 
 ---
 
