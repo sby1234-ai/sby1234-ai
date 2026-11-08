@@ -6,6 +6,19 @@
 - 희망 직무: **네트워크 엔지니어 · 시스템/인프라 엔지니어 · 보안관제(정보보안)**
 - 교육: SKT ALEPH K-뉴딜 아카데미 (2026.08 ~ 2026.11, 500시간)
 - 포트폴리오: **https://sby1234-ai.github.io/myprofile/**
+- 연락처: akrrkt56@gmail.com
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-2B2B2B?style=flat-square)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF8B00?style=flat-square)
+![Wazuh](https://img.shields.io/badge/Wazuh-3595F6?style=flat-square&logo=wazuh&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=flat-square&logo=zabbix&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
 
@@ -17,6 +30,13 @@
 | **BYTE BACK 방어전** (교육 과제) | 클라우드에 배포한 교육용 웹 서비스를 12단계에 걸쳐 방어 — 공개 데이터 차단 → 로그인 검증·소유자 검사 → DB 권한 회수 → 탐지·권한 회수 제안 → 백업 복원 → 기기 승인 → 실측 작전실. 평가 공격 41종 대응, 1~12단계 통과 | [저장소](https://github.com/sby1234-ai/choi-bujang-secret-vault) · [상세](https://sby1234-ai.github.io/myprofile/byteback.html) |
 | **케셰브** (교육 과제) | 로그인·접근 판정·XDR 경보 조회·AI 사건 설명·조치 결과 확인 화면을 갖춘 보안 Agent, 13~22단계 통과. 저장된 경보를 보여 주는 화면까지이며 실시간 탐지 엔진은 만들지 않음 | [저장소](https://github.com/sby1234-ai/kesheb-defense) · [상세](https://sby1234-ai.github.io/myprofile/kesheb.html) |
 | **런메이트** (개인 앱) | 걷기·뛰기를 자동으로 나눠 기록하는 안드로이드 러닝 앱, GitHub Actions로 빌드·릴리스 | [저장소](https://github.com/sby1234-ai/runmate) |
+
+<details>
+<summary><b>Full-Security Labs — 직접 구성한 GNS3 토폴로지(내부망 구간) 보기</b></summary>
+<br>
+<img src="img/gns3-topology.png" alt="GNS3 토폴로지 — R1·R2·ASAv·R3와 Switch1~3, VPCS 구성" width="480">
+<p>R1·R2 아래 내부 구역과 ASAv 방화벽, 외부망으로 이어지는 R3(라우터 ACL 탐지 규칙)까지의 구성입니다. 외부망 VLAN 10/20/30 구간과 VirtualBox 서버 구성은 결과보고서에 정리했습니다.</p>
+</details>
 
 그 밖의 실습(Rocky 서버 구축, Snort·Suricata 룰, OSSEC·Wazuh·Zabbix·PMM, KISA 가이드 점검 스크립트, CTF 머신 10개 공략과 자작 머신 VaultCorp)은 [포트폴리오](https://sby1234-ai.github.io/myprofile/)에 정리했습니다.
 
